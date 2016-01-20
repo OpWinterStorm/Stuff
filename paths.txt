@@ -1,2 +1,2 @@
-%USERPROFILE%\Documents\School\11th Grade
-%USERPROFILE%\Documents\School\NCSSM
+%USERPROFILE%\Desktop\Wars
+%USERPROFILE%\Desktop\Programming

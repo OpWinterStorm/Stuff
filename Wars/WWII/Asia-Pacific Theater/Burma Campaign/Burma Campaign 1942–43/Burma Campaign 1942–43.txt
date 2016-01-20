@@ -1,0 +1,4 @@
+Date: June XXth, 1942-September XXth, 1943
+Location: Burma
+Belligerents: [ALLIES] United Kingdom, British India, British Burma, China, United States [AXIS] Japan, State of Burma, Azad Hind, Thailand
+Victor: Axis

@@ -1,0 +1,4 @@
+Date: MM DD, 1940-MM DD, 1945
+Location: Latin America
+Belliegerents: [AXIS] Germany
+Victor: Germany

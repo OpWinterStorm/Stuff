@@ -24,9 +24,8 @@ exit /b
 rem Push to GitHub
 cls
 git add -A
-echo Use -m to add messages
 set /p message= Enter a commit message: 
-git commit %message%
+git commit -m "%message%"
 git push origin master
 
 exit /b

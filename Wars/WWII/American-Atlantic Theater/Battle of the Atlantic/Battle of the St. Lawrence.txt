@@ -1,0 +1,4 @@
+Date: May DD-November DD, 1942
+Location: Gulf of St. Lawrence
+Belligerents: [ALLIES] Canada, United States, United Kingdom [AXIS] Germany
+Victor: Allies

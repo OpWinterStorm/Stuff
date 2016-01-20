@@ -1,0 +1,4 @@
+Date: April DD-May DD 1945
+Location: Atlantic Ocean
+Belligerents: [ALLIES] United States, Canada [AXIS] Germany
+Victor: Allies

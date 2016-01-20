@@ -1,0 +1,4 @@
+Date: January DD-March DD, 1941
+Location: Atlantic Ocean
+Belligerents: [ALLIES] United Kingdom, [AXIS] Germany
+Victor: Axis
